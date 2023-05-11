@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/contact-app.github.io/static/css/main.a013787f.css",
-    "main.js": "/contact-app.github.io/static/js/main.56e90d4f.js",
+    "main.js": "/contact-app.github.io/static/js/main.9b59c7a2.js",
     "index.html": "/contact-app.github.io/index.html",
     "main.a013787f.css.map": "/contact-app.github.io/static/css/main.a013787f.css.map",
-    "main.56e90d4f.js.map": "/contact-app.github.io/static/js/main.56e90d4f.js.map"
+    "main.9b59c7a2.js.map": "/contact-app.github.io/static/js/main.9b59c7a2.js.map"
   },
   "entrypoints": [
     "static/css/main.a013787f.css",
-    "static/js/main.56e90d4f.js"
+    "static/js/main.9b59c7a2.js"
   ]
 }
